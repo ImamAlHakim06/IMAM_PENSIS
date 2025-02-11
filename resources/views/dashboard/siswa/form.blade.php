@@ -9,7 +9,6 @@
                 </div> 
                 <div class="col-4 text-right">
                         <button class="btn btn-sm text-secondary" data-bs-toggle="modal" data-bs-target="#deleteModal"></i class="fas fa-trash"></i></button>
-                        <!-- Tambahkan konten di sini sesuai kebutuhan -->
                 </div>
             </div>
         </div>
